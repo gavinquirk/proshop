@@ -21,6 +21,6 @@ All transactions are done through PayPal sandbox, and will not be processed
 
 Visit the deployed application at [https://gq-proshop.herokuapp.com/]
 
-Or the Github repo at [https://github.com/gavinquirk/proshop-tut]
+Or the Github repo at [https://github.com/gavinquirk/proshop]
 
 Base application created as part of course [https://www.udemy.com/course/mern-ecommerce/]
