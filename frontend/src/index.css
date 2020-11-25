@@ -46,6 +46,12 @@ h3 {
 .carousel a {
   margin: 0 auto;
 }
+
+.nav-logo {
+  width: 200px;
+  height: 80px;
+  object-fit: cover;
+}
 @media (max-width: 900px) {
   .carousel-caption h2 {
     font-size: 2.5vw;
